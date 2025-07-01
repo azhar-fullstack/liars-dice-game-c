@@ -124,6 +124,6 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Azhar Mehmood  
 **Language**: C  
 **Category**: Game Development, Algorithms, Interactive Systems 
