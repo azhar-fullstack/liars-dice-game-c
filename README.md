@@ -103,7 +103,7 @@ void ai_make_bet(int *bet_num, int *bet_val, int cur_num, int cur_val); // AI de
 ## 📁 Project Structure
 
 ```
-liarDisc/
+liars-dice-game-c/
 ├── liarDisc.c      # Main game implementation
 ├── liarDisc.exe    # Compiled executable (Windows)
 └── README.md       # This file
